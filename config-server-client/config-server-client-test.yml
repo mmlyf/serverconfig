@@ -1,1 +1,2 @@
 environment: test
+foo = foo version 3
