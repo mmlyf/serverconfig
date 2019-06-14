@@ -1,1 +1,1 @@
-foo = foo version 3
+echo -n '{"appA": {"secret": "appAsecret"}, "bar": "baz"}' | vault write secret/myapp -
